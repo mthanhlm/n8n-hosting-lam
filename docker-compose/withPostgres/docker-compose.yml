@@ -2,7 +2,7 @@ version: '3.8'
 
 volumes:
   db_storage:
-  n8n_storage:
+  n8n_data:
   traefik_data:
 
 services:
